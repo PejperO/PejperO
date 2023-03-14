@@ -12,14 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pejpero&label=Profile%20views&color=0e75b6&style=flat" alt="pejpero" /> </p>
 
-
-- 🔭 I’m currently working on [Blackjack](https://github.com/PejperO/Java_Blackjack)
-
 - 🌱 I’m currently learning at Polish-Japanese Academy of Information Technology
 
-- 💬 Ask me about anything, I am happy to help ( if I can :> )
-
-- ⚡ Fun fact Avocados are a fruit, not a vegetable
+- ⚡ Fun fact Many owners of large tech companies loved video games as kids
 
 ### Languages and Tools:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -31,8 +26,6 @@
 <a align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pejpero&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pejpero" /></p>
 

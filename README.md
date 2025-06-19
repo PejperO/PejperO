@@ -16,20 +16,23 @@
 
 <div align="center">
  
- 🌱 I’m currently studying at: **[Polish-Japanese Academy of Information Technology](https://pja.edu.pl/en/)**
- 
- 🔭 I’m currently working on ****Engineering diploma thesis****
+🌱 I’m currently focused on: **personal and professional development**
 
-⚡ Fun fact **That little spinning wheel animation you see when something is loading i called a "[throbber](https://en.wikipedia.org/wiki/Throbber)"**
+🔭 I recently defended my: **Engineering diploma thesis**
+
+⚡ Fun fact **CTRL + ALT + DEL was originally created as a shortcut for IBM engineers to reboot computers quickly.**
 
  </div>
  
 <div align="center"> 
   <a href="mailto:polecki.mikolaj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/pejpero/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://custom-icon-badges.demolab.com/badge/linkedin-21262d?style=for-the-badge&logo=linkedin2&logoColor=blue" target="_blank" />
+  </a>
+  <a href="https://pejpero.com" target="_blank">
+     <img src="https://custom-icon-badges.demolab.com/badge/Website-21262d?style=for-the-badge&logo=pejpero&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/PejperO?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=github&logoColor=white" target="_blank" />

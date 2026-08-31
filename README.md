@@ -1,29 +1,21 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=pejpero&label=Profile%20views&color=1b1b27&style=for-the-badge" alt="pejpero">
 
+
 <br>
+
 
 <div align="center">
    <a><img width="700px" src="https://github.com/user-attachments/assets/04ce4f36-8202-43f7-ad60-229a3af8249c"/></a>
 </div>
 
+
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=12&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World!%F0%9F%91%8B;I'm+Miko%C5%82aj+Polecki" alt="Typing SVG" /></a>
 </h1>
 
+
 <h3 align="center">Hardworking software developer from Poland</h3>
 
-<br>
-
-<div align="center">
- 
-🌱 I’m currently focused on: **personal and professional development**
-
-🔭 I recently defended my: **Engineering diploma thesis**
-
-⚡ Fun fact **CTRL + ALT + DEL was originally created as a shortcut for IBM engineers to reboot computers quickly.**
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:polecki.mikolaj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -39,6 +31,39 @@
   </a>
 </div>
 
+<br>
+
+
+<div align="center">
+
+
+🤝 Currently working B2B alongside two business partners - two products, two engineering cultures, twice as much to learn
+
+🌱 My daily mindset: every single day is a chance to learn something that makes me better than yesterday
+
+🎓 Engineer in Computer Science - diploma defended, curiosity still very much in progress
+
+⚡ Fun fact “Wi-Fi” doesn’t actually stand for anything. It’s not short for “Wireless Fidelity” - a branding agency simply made the name up, because “IEEE 802.11b Direct Sequence” didn’t quite roll off the tongue.
+
+ </div>
+
+
+<br><br>
+
+<h2 align="center">🚀 What drives me 🚀</h2>
+<br>
+<div align="center">
+  <p>
+    I don’t believe in “finished” developers.<br><br>
+    Working with two business partners means two different codebases, two ways of thinking about software<br>
+    and a steady supply of problems I haven’t solved before - and that is exactly the point.<br>
+    Every day brings something new: a cleaner architecture, a smarter tool,<br>
+    or a better way to explain a hard idea to someone else.<br><br>
+    <b>Curious first, pragmatic second - always building, always learning.</b>
+  </p>
+</div>
+
+
 <br><br>
 
 <h2 align="center">⚒️ Skills ⚒️</h2>
@@ -48,15 +73,18 @@
     <img src="https://skillicons.dev/icons?i=idea,pycharm,clion,androidstudio,visualstudio,vscode,atom,bash,git,nodejs,mysql,sqlite,figma" /><br>
 </div>
 
+
 <br><br>
 
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
   <br>
   <img alt="Contributions" src="https://raw.githubusercontent.com/PejperO/PejperO/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  
-  <br/><br/><br/>
+
+
+<br/><br/><br/>
 </div>
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -65,5 +93,6 @@
   <img alt="pejpero" src="https://github-readme-streak-stats.herokuapp.com/?user=pejpero&theme=tokyonight&hide_border=true" height="170px"></a>
   <img alt="pejpero" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pejpero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170px"/></a>
   <img alt="pejpero" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pejpero&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
+
 
 </div>
